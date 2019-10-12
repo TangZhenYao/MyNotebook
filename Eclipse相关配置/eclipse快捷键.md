@@ -1,0 +1,21 @@
+#eclipse快捷键
+
+Window->Preference->Java->Code Style->Code Template 然后展开Comments节点就是所有需设置注释的元素
+类型一
+
+/**
+* <p>Title: ${type_name}</p> 
+* <p>Description: </p> 
+* @author  唐振耀 
+* @date  ${date} ${time}
+*/
+类型二
+/**
+* @Title: ${file_name}
+* @Package ${package_name}
+* @Description: ${todo}(用一句话描述该文件做什么)
+* @author ${user}
+* @date ${date}
+* @version V1.0
+*/
+
