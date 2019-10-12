@@ -9,7 +9,9 @@ Window->Preference->Java->Code Style->Code Template 然后展开Comments节点就是所有
 * @author  唐振耀 
 * @date  ${date} ${time}
 */
+
 类型二
+
 /**
 * @Title: ${file_name}
 * @Package ${package_name}
